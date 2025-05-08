@@ -2,7 +2,7 @@
 
 🔗ссылка на проект - https://t.me/narodnieokna_bot
 
-
+https://github.com/ramazan7618/Ai_assistent/blob/main/ChatGPT%20Image%208%20%D0%BC%D0%B0%D1%8F%202025%20%D0%B3.,%2017_31_51.png?raw=true
 
 ## 📌 Назначение проекта
 
