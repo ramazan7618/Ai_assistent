@@ -1,4 +1,7 @@
-![AI Assistant Banner](./17_31_51.png)
+<p align="center">
+  <img src="./17_31_51.png" alt="AI Assistant Banner" width="800">
+</p>
+
 
 
 # 🤖 ИИ-ассистент для компании по установке окон
