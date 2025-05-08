@@ -2,6 +2,7 @@
 
 🔗ссылка на проект - https://t.me/narodnieokna_bot
 
+[pictury_1]https://github.com/ramazan7618/Ai_assistent/blob/main/17_31_51.png?raw=true
 
 ## 📌 Назначение проекта
 
